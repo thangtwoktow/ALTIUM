@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=BOOT1 NewDesignator=BOOT
+Change Component Designator: OldDesignator=RESET1 NewDesignator=RESET
+Added Room: Name=SCH.ESP8266

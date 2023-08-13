@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=D3 Pin=BOOT1-1
+Added Pin To Net: NetName=D3 Pin=R6-2
+Added Member To Class: ClassName=SCH.ESP8266 Member=Component U1 ESP 12
