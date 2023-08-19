@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=+3.3 Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Member To Class: ClassName=SCH.ESP8266 Member=Component BOOT SW
+Added Member To Class: ClassName=SCH.ESP8266 Member=Component RESET SW
+Added Room: Name=SCH.ESP8266
